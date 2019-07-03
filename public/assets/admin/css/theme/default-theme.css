@@ -1,0 +1,100 @@
+/* Button
+======================*/
+.custom-btn {
+    background: #2a2a86;
+}
+.custom-btn:hover {
+    background: #101050!important;
+}
+.pagenation li.active a:hover, 
+.pagenation li.active a,
+.pagenation li a:hover {
+    background: #2a2a86;
+    color: #fff;
+}
+.form-control:hover,
+.form-control:focus {
+    border: 1px solid #2a2a86;
+}
+.radio-wrap input[type="radio"]:hover:not(:checked) ~ label,
+.radio-wrap input[type="checkbox"]:hover:not(:checked) ~ label {
+    color: #2a2a86;
+}
+.radio-wrap input[type="radio"]:checked ~ label:before,
+.radio-wrap input[type="checkbox"]:checked ~ label:before {
+    background: #4CAF50;
+    border-color: #4CAF50;
+}
+
+.load h1{
+    color: #2a2a86;
+}
+.load h2{
+    color: #2a2a86;
+}
+.login-register .form-title{
+    color: #2a2a86;
+   }
+.login-register .form-footer a{
+    color: #2a2a86;
+}
+
+.nav-tabs li.active a ,
+.nav-tabs li.active a:hover ,
+.nav-tabs li.active a:focus ,
+.nav-tabs li a:hover ,
+.nav-tabs li a:focus {
+    color: #2a2a86;
+}
+.logo{
+    background: #fff;
+}
+.sidebar .side-menu-links li a:hover ,
+.sidebar .side-menu-links li a:focus ,
+.sidebar .side-menu-links li.active a:hover ,
+.sidebar .side-menu-links li.active a{
+    border-left: 4px solid #2a2a86;
+}
+.page-heading {
+    border-left: 3px solid #2a2a86;
+}
+.page-heading h2 {
+    color: #2a2a86;
+}
+.page-heading .breadcrumb > li + li:before {
+	padding-right: 6px;
+	color: #2a2a86;
+}
+.page-heading .breadcrumb a {
+	color: #2a2a86;
+}
+.page-heading .breadcrumb > .active {
+    color: #222f44;
+}
+.widget .widget-title {
+    background: #2a2a86;
+}
+.top-header {
+    background: #2a2a86;
+}
+.toggle-icon{
+    border-right: 1px solid #101050;
+}
+.toggle-icon:hover{
+    background: #101050;
+}
+.top-header-links li a:hover{
+    background: #101050;
+}
+.top-header-links .dropdown{
+    border-left: 1px solid #101050;
+}
+.top-header-links .dropdown .custom-btn .count{
+    background: #101050;
+}
+.top-header-links .dropdown .dropdown-menu ul li a .message-content .sender-name{
+    color: #2a2a86;
+}
+.top-header-links .dropdown.profile .profile-dropdown .heading h3{
+    color: #2a2a86;
+}
